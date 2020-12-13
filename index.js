@@ -23,3 +23,4 @@ class Dinner {
     this.entree = entree 
     this._dessert = dessert
   }
+}
